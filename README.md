@@ -50,7 +50,7 @@ https://github.com/swetashukla04/DBMS-PLACEMENT-CELL
 
 ### Curve Regularization & Symmetry Detection  
 Algorithms for geometric processing and design accuracy  
-(add repo link)
+https://github.com/swetashukla04/Adobe-GenSolve_Innovate-to-Impact
 
 ---
 
