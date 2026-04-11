@@ -31,15 +31,15 @@ I’m a Software Engineer focused on building scalable backend systems and AI-po
 
 ## Current Projects
 
-- [**Destroyer**](https://github.com/swetashukla04/Destroyer) — Autonomous AI-powered newsroom generating real-time, high-quality articles without human intervention  
-- [**PulseAI Prep**](https://github.com/swetashukla04/Destroyer) — AI-driven interview platform with personalized mock interviews, scoring, and actionable feedback  
+- [**Destroyer**](https://github.com/swetashukla4/Destroyer) — Autonomous AI-powered newsroom generating real-time, high-quality articles without human intervention  
+- [**PulseAI Prep**](https://github.com/swetashukla4/PulseAI) — AI-driven interview platform with personalized mock interviews, scoring, and actionable feedback  
 - [**Weaave**](https://weaave.vercel.app/) — Visual builder to design, run, and scale LLM-powered workflows with parallel execution  
 
 ---
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/swetashukla04)
+![GitHub Contribution Graph](https://ghchart.rshah.org/swetashukla4)
 
 ---
 
@@ -63,7 +63,7 @@ I’m a Software Engineer focused on building scalable backend systems and AI-po
 ## Elsewhere
 
 All my links are at one place- Socials, Writtings, Mentoring and more. <br/>
-**[MiniLink - @swetashukla](https://minianonlink.vercel.app/swetashukla4)**
+**[MiniLink - @swetashukla4](https://minianonlink.vercel.app/swetashukla4)**
 
 ---
 
