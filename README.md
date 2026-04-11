@@ -72,20 +72,30 @@ https://github.com/swetashukla04/Adobe-GenSolve_Innovate-to-Impact
 
 ## Coding Profiles
 
-LeetCode: https://leetcode.com/u/Sweta_shukla/  
-GeeksforGeeks: https://www.geeksforgeeks.org/user/swetashux1wm/  
+**LeetCode**: [**Sweta_shukla**](https://leetcode.com/u/Sweta_shukla) <br/>
+**GeeksforGeeks**: [**swetashux1wm**](https://www.geeksforgeeks.org/user/swetashux1wm)
 
 ---
 
-## Find me everywhere
+## Elsewhere
 
-LinkTree: https://minianonlink.vercel.app/swetashukla
+All my links are at one place- Socials, Writtings, Mentoring and more. <br/>
+**[MiniLink - @swetashukla](https://minianonlink.vercel.app/swetashukla)**
 
 ---
+
+## Recognition
+
+- Secured Software Engineering internships at **Amazon**, **Cisco**, **ServiceNow**, and **Zscaler**  
+- Received **Pre-Placement Offers** (**PPO**) from **Amazon** and **Cisco**  
+- Selected for the **AFE Program** (Top **500 out of 8000** candidates)  
+- **AnitaB.org Scholar** (Women in Tech Program)  
+- Achieved **3rd** Place at Vibeathon, a competitive hackathon (**SaaS** Marketplace) 
+
 
 ## Philosophy
 
-Build real things. Keep it simple. Scale it well.
+> Build real things. Keep it simple. Scale it well.
 
 ---
 
