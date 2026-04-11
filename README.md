@@ -63,7 +63,7 @@ I’m a Software Engineer focused on building scalable backend systems and AI-po
 ## Elsewhere
 
 All my links are at one place- Socials, Writtings, Mentoring and more. <br/>
-**[MiniLink - @swetashukla](https://minianonlink.vercel.app/swetashukla)**
+**[MiniLink - @swetashukla](https://minianonlink.vercel.app/swetashukla4)**
 
 ---
 
