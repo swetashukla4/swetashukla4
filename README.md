@@ -17,40 +17,23 @@ India | Software Engineer Intern @Cisco | Ex-Amazon Intern
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
+
 ## About Me
 
 I’m a Software Engineer focused on building scalable backend systems and AI-powered applications.
 
-- Worked at Amazon and Cisco on production-grade systems  
-- Built microservices, authentication systems, and payment workflows  
-- Exploring LLM-based products and AI-driven automation  
+- Worked at **Amazon** and **Cisco** on production-grade systems  
+- Built **microservices**, **authentication** systems, and **payment** workflows  
+- Exploring **LLM-based** products and **AI-driven** automation  
 - Strong in Data Structures, System Design, and Distributed Systems  
 
 ---
 
-## Featured Projects
+## Current Projects
 
-### PulseAI Prep  
-AI-powered interview assistant with mock interviews, scoring, and feedback  
-https://github.com/swetashukla04/PulseAI  
-
----
-
-### Weave — Visual AI Workflow Builder  
-Build and run LLM-powered workflows visually with parallel execution  
-https://weaave.vercel.app/  
-
----
-
-### Placement Management System  
-Portal to manage student–company interactions and placement workflows  
-https://github.com/swetashukla04/DBMS-PLACEMENT-CELL  
-
----
-
-### Curve Regularization & Symmetry Detection  
-Algorithms for geometric processing and design accuracy  
-https://github.com/swetashukla04/Adobe-GenSolve_Innovate-to-Impact
+- [**Destroyer**](https://github.com/swetashukla04/Destroyer) — Autonomous AI-powered newsroom generating real-time, high-quality articles without human intervention  
+- [**PulseAI Prep**](https://github.com/swetashukla04/Destroyer) — AI-driven interview platform with personalized mock interviews, scoring, and actionable feedback  
+- [**Weaave**](https://weaave.vercel.app/) — Visual builder to design, run, and scale LLM-powered workflows with parallel execution  
 
 ---
 
