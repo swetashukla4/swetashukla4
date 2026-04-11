@@ -1,6 +1,6 @@
 # Hi, I’m Sweta Shukla
 
-India | Software Engineer Intern @Cisco | Ex-Amazon Intern
+India | Software Engineer Intern **@Cisco** | Ex- Intern **@Amazon**
 
 
 ---
@@ -22,7 +22,7 @@ India | Software Engineer Intern @Cisco | Ex-Amazon Intern
 
 I’m a Software Engineer focused on building scalable backend systems and AI-powered applications.
 
-- Worked at **Amazon** and **Cisco** on production-grade systems  
+- Worked at **@Amazon** and **@Cisco** on production-grade systems  
 - Built **microservices**, **authentication** systems, and **payment** workflows  
 - Exploring **LLM-based** products and **AI-driven** automation  
 - Strong in Data Structures, System Design, and Distributed Systems  
@@ -45,10 +45,10 @@ I’m a Software Engineer focused on building scalable backend systems and AI-po
 
 ## What I’m Doing
 
-- Interning @Cisco
+- Interning **@Cisco**
 - Building AI-powered developer tools  
 - Exploring scalable system design  
-- Practicing DSA (1200+ problems solved)  
+- Practicing DSA (**1200+** problems solved)  
 - Learning distributed systems and backend engineering  
 
 ---
@@ -69,8 +69,8 @@ All my links are at one place- Socials, Writtings, Mentoring and more. <br/>
 
 ## Recognition
 
-- Secured Software Engineering internships at **Amazon**, **Cisco**, **ServiceNow**, and **Zscaler**  
-- Received **Pre-Placement Offers** (**PPO**) from **Amazon** and **Cisco**  
+- Secured Software Engineering internships at **@Amazon**, **@Cisco**, **@ServiceNow**, and **@Zscaler**  
+- Received **Pre-Placement Offers** (**PPO**) from **@Amazon** and **@Cisco**  
 - Selected for the **AFE Program** (Top **500 out of 8000** candidates)  
 - **AnitaB.org Scholar** (Women in Tech Program)  
 - Achieved **3rd** Place at Vibeathon, a competitive hackathon (**SaaS** Marketplace) 
