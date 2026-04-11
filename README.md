@@ -25,7 +25,7 @@ I’m a Software Engineer focused on building scalable backend systems and AI-po
 - Worked at **@Amazon** and **@Cisco** on production-grade systems  
 - Built **microservices**, **authentication** systems, and **payment** workflows  
 - Exploring **LLM-based** products and **AI-driven** automation  
-- Strong in Data Structures,**Orchestration tools**, System Design, and Distributed Systems  
+- Strong in Data Structures, **Orchestration tools**, System Design, and Distributed Systems  
 
 ---
 
