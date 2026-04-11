@@ -1,11 +1,94 @@
-<h1 align="center">Hi 👋, I'm Sweta Shukla</h1>
-<h3 align="center">Currently Pursuing Btech in IIIT Raichur.</h3>
+# Hi, I’m Sweta Shukla
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sweta-shukla-93b0b227a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sweta-shukla-93b0b227a" height="30" width="40" /></a>
-<a href="https://instagram.com/sw.eta_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sw.eta_23" height="30" width="40" /></a>
-</p>
+India | Software Engineer Intern @Cisco | Ex-Amazon Intern
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+---
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![AI](https://img.shields.io/badge/-AI-121212?style=flat-square&logo=openai&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+---
+## About Me
+
+I’m a Software Engineer focused on building scalable backend systems and AI-powered applications.
+
+- Worked at Amazon and Cisco on production-grade systems  
+- Built microservices, authentication systems, and payment workflows  
+- Exploring LLM-based products and AI-driven automation  
+- Strong in Data Structures, System Design, and Distributed Systems  
+
+---
+
+## Featured Projects
+
+### PulseAI Prep  
+AI-powered interview assistant with mock interviews, scoring, and feedback  
+https://github.com/swetashukla04/PulseAI  
+
+---
+
+### Weave — Visual AI Workflow Builder  
+Build and run LLM-powered workflows visually with parallel execution  
+https://weaave.vercel.app/  
+
+---
+
+### Placement Management System  
+Portal to manage student–company interactions and placement workflows  
+https://github.com/swetashukla04/DBMS-PLACEMENT-CELL  
+
+---
+
+### Curve Regularization & Symmetry Detection  
+Algorithms for geometric processing and design accuracy  
+(add repo link)
+
+---
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/swetashukla04)
+
+---
+
+## What I’m Doing
+
+- Interning @Cisco
+- Building AI-powered developer tools  
+- Exploring scalable system design  
+- Practicing DSA (1200+ problems solved)  
+- Learning distributed systems and backend engineering  
+
+---
+
+## Coding Profiles
+
+LeetCode: https://leetcode.com/u/Sweta_shukla/  
+GeeksforGeeks: https://www.geeksforgeeks.org/user/swetashux1wm/  
+
+---
+
+## Find me everywhere
+
+LinkTree: https://minianonlink.vercel.app/swetashukla
+
+---
+
+## Philosophy
+
+Build real things. Keep it simple. Scale it well.
+
+---
+
+<sub>
+If you find my work useful, consider giving a star to the repositories
+</sub>
