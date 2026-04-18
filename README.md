@@ -31,6 +31,7 @@ I’m a Software Engineer focused on building scalable backend systems and AI-po
 
 ## Current Projects
 
+- [**ShortlistMe**](https://shortlistme.vercel.app) - Transform your resume into a stunning portfolio in seconds. Free Forever.
 - [**The Destroyer**](https://github.com/TuShArBhArDwA/The_Destroyer), [**AutoPress**](https://github.com/TuShArBhArDwA/AutoPress) - Autonomous AI Editorial. Real Reporting. Independent Perspectives.
 - [**PulseAI Prep**](https://github.com/swetashukla4/PulseAI) — AI-driven interview platform with personalized mock interviews, scoring, and actionable feedback  
 - [**Weaave**](https://weaave.vercel.app/) — Visual builder to design, run, and scale LLM-powered workflows with parallel execution  
