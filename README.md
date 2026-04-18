@@ -73,7 +73,8 @@ All my links are at one place- Socials, Writtings, Mentoring and more. <br/>
 - Received **Pre-Placement Offers** (**PPO**) from **@Amazon** and **@Cisco**  
 - Selected for the **AFE Program** (Top **500 out of 8000** candidates)  
 - **AnitaB.org Scholar** (Women in Tech Program)  
-- Achieved **3rd** Place at Vibeathon, a competitive hackathon (**SaaS** Marketplace) 
+- Achieved **3rd** Place at Vibeathon, a competitive hackathon (**SaaS** Marketplace)
+- Runner-up — [Vibeathon](https://x.com/joni_vrbt/status/2042710597704519848?s=20)
 
 
 ## Philosophy
